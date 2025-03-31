@@ -38,6 +38,11 @@ This project is deployed using **Streamlit Cloud**. Access the live app here:
 - **Pandas & NumPy** (for data preprocessing)
 
 ## Screenshots
+<img width="1440" alt="Screenshot 2025-03-31 at 6 05 04 PM" src="https://github.com/user-attachments/assets/c3ae67f8-757e-4589-b8d4-1f9dc6fee593" />
+
+<img width="1440" alt="Screenshot 2025-03-31 at 5 06 52 PM" src="https://github.com/user-attachments/assets/4a3e3ad8-d06d-4c64-8edd-9ea4342d0119" />
+
+![Uploading Screenshot 2025-03-31 at 5.06.56 PM.png…]()
 
 
 
